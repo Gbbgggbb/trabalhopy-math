@@ -1,0 +1,15 @@
+meio_transporte,percentual,quantidade_milhoes,categoria
+Automóvel,32.3,22.6,Individual motorizado
+Ônibus,21.4,14.9,Transporte público
+A pé,17.8,12.4,Ativo
+Motocicleta,16.4,11.4,Individual motorizado
+Bicicleta,6.2,4.4,Ativo
+Trem ou metrô,1.6,1.1,Transporte público
+"Van, perua ou assemelhados",1.4,,Transporte público
+Mototáxi,0.7,,Transporte público
+Táxi ou assemelhados,0.6,,Transporte público
+Outros,0.6,,Outros
+BRT ou ônibus de trânsito rápido,0.3,,Transporte público
+Caminhonete ou caminhão adaptado,0.3,,Outros
+Embarcação de pequeno porte,0.2,,Transporte público
+Embarcação de médio e grande porte,0.1,,Transporte público
